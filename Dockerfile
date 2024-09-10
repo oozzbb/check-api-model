@@ -5,7 +5,7 @@ FROM python:3.8-slim-buster
 WORKDIR /app
 
 # 将当前目录内容复制到容器中的 /app
-COPY ./check_api_model /app
+COPY . /app
 
 # 安装项目所需的任何依赖
 # 如果你有 requirements.txt 文件，取消下面这行的注释
