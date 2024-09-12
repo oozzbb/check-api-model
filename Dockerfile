@@ -19,4 +19,4 @@ EXPOSE 8501
 
 # 运行应用
 # 替换 app.py 为你的主 Python 文件名
-CMD ["python", "app.py"]
+CMD ["streamlit","run","app.py"]
