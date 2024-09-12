@@ -16,4 +16,6 @@ docker run -p 8501:8501 oozzbb/check_api_model:latest
 ```
 
 # 感谢
-https://linux.do/t/topic/183191⁠
+```
+https://linux.do/t/topic/183191
+```
